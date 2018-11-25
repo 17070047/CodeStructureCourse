@@ -28,8 +28,8 @@
 + 树形结构
 
 + 二叉树
- + [二叉树简介](https://github.com/17070047/CodeStructureCourse/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
- + [中序穿线二叉树](https://github.com/17070047/CodeStructureCourse/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%B8%AD%E5%BA%8F%E7%A9%BF%E7%BA%BF%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
+  + [二叉树简介](https://github.com/17070047/CodeStructureCourse/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+  + [中序穿线二叉树](https://github.com/17070047/CodeStructureCourse/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%B8%AD%E5%BA%8F%E7%A9%BF%E7%BA%BF%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
 
 + 图
   + [图的创建及遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86.md)
