@@ -33,6 +33,7 @@
 
 + 图
   + [图的创建及遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86.md)
+  + [图的最小生成树，Prim和Ktuskal算法](https://github.com/wanghao15536870732/StudyNotes/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/wang.cpp)
 
 + 检索
 
