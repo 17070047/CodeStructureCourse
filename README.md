@@ -32,8 +32,11 @@
   + [中序穿线二叉树](https://github.com/17070047/CodeStructureCourse/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%B8%AD%E5%BA%8F%E7%A9%BF%E7%BA%BF%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
 
 + 图
-  + [图的创建及遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86.md)
-  + [图的最小生成树，Prim和Ktuskal算法](https://github.com/wanghao15536870732/StudyNotes/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/PrimKruskal.cpp)
+  + [图的创建及遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86/%E6%B7%B1%E5%BA%A6%E5%B9%BF%E5%BA%A6%E9%81%8D%E5%8E%86.cpp)
+  + [图的最小生成树，Prim和Ktuskal算法](https://github.com/17070047/CodeStructureCourse/tree/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91)
+  + [单源最短路径](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%8D%95%E6%BA%90%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84.md)
+  + [拓扑排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F.md)
+  + [关键路径](https://github.com/17070047/CodeStructureCourse/tree/master/%E5%9B%BE/%E5%85%B3%E9%94%AE%E8%B7%AF%E5%BE%84)
 
 + 检索
 
@@ -41,8 +44,14 @@
 	+ [冒泡排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
 	+ [选择排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
 	+ [插入排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+  + [直接插入排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E7%9B%B4%E6%8E%A5%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+  + [二分插入排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E4%BA%8C%E5%88%86%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+  + [希尔插入排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E5%B8%8C%E5%B0%94%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
+  + [快速排序](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%86%85%E6%8E%92%E5%BA%8F/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
+
 
 + 数据结构实验
-	+ [电话簿的创建和使用](https://github.com/17070047/CodeStructureCourse/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C%E8%AF%BE%E4%B8%80%20%20%E7%94%B5%E8%AF%9D%E7%B0%BF.md)
-	+ [二叉树的创建和遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C%E8%AF%BE%E4%BA%8C%20%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
-	+ [图的创建以及遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86.md)和[代码](https://github.com/17070047/CodeStructureCourse/blob/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E5%88%9B%E5%BB%BA%E5%8F%8A%E9%81%8D%E5%8E%86.cpp)
+	+ [电话簿的创建和使用](https://github.com/17070047/CodeStructureCourse/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C/%E7%94%B5%E8%AF%9D%E7%B0%BF.md)
+	+ [二叉树的创建和遍历](https://github.com/17070047/CodeStructureCourse/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+	+ [图的创建以及遍历](https://github.com/17070047/CodeStructureCourse/tree/master/%E5%9B%BE/%E5%9B%BE%E7%9A%84%E9%81%8D%E5%8E%86)
+  + [借书证信息系统](https://github.com/17070047/CodeStructureCourse/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AE%9E%E9%AA%8C/%E5%80%9F%E4%B9%A6%E8%AF%81%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F.md)
